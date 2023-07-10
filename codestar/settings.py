@@ -31,6 +31,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '8000-lewismdillo-djangoblogs-61ca95ohqq0.ws-eu101.gitpod.io',
     'django-codestar-ld.herokuapp.com',
+    'django-codestar-ld-e8d1a5c55a9e.herokuapp.com',
     ]
 
 
